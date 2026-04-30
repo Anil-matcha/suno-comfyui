@@ -43,13 +43,13 @@ Suno is a state-of-the-art generative music model that produces full-length song
 
 ### Via ComfyUI Manager (recommended)
 1. Open **ComfyUI Manager** → **Install via Git URL**
-2. Paste: `https://github.com/Anil-matcha/CV-Journal-Reddit`
+2. Paste: `https://github.com/Anil-matcha/suno-comfyui`
 3. Restart ComfyUI
 
 ### Manual
 ```bash
 cd ComfyUI/custom_nodes
-git clone https://github.com/Anil-matcha/CV-Journal-Reddit suno-comfyui
+git clone https://github.com/Anil-matcha/suno-comfyui
 pip install -r suno-comfyui/requirements.txt
 ```
 
