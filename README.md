@@ -9,6 +9,11 @@
 
 ---
 
+## Related Projects
+
+- [Suno on MuAPI](https://muapi.ai/suno) — Model landing page for music creation, remix, and extension.
+- [Music and speech docs](https://muapi.ai/docs/music-and-speech) — API workflows for Suno and audio generation.
+
 ## What is Suno?
 
 Suno is a state-of-the-art generative music model that produces full-length songs, instrumentals, and sound effects from text prompts. This node pack wraps the muapi.ai Suno endpoints so you can compose, remix, and edit music inside ComfyUI workflows.
