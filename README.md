@@ -13,6 +13,8 @@
 
 - [Suno on MuAPI](https://muapi.ai/suno) — Model landing page for music creation, remix, and extension.
 - [Music and speech docs](https://muapi.ai/docs/music-and-speech) — API workflows for Suno and audio generation.
+- [minimax-music-3-comfyui](https://github.com/Anil-matcha/minimax-music-3-comfyui) — ComfyUI custom nodes for MiniMax Music 3.0 text-to-music generation.
+- [awesome-minimax-music-3-prompts](https://github.com/Anil-matcha/awesome-minimax-music-3-prompts) — Curated song prompts and lyrics-formatting guide for MiniMax Music 3.0.
 
 ## What is Suno?
 
